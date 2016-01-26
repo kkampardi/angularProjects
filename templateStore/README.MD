@@ -1,1 +1,0 @@
-#Template Store , Angular Application
