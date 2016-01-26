@@ -25,9 +25,5 @@ and a bunch of development and testing tools ( bower, foundation etc. )
 The project is preconfigured with a simple development web server.  The simplest way to start
 this server is:
 
+```npm start
 ```
-npm start
-```
-# Technologies Used
-
-AngularJS
